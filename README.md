@@ -9,6 +9,9 @@ Ground ML eliminate the need of Edge ML as it uses live telemetry video feed and
 The model run on system screen as well as on webcamera.
 The model takes input from the laptop screen that is displaying the fpv video from the UAV
 ![6269497224241199194](https://github.com/user-attachments/assets/5ce9d7da-a251-4541-acf2-6c99dc6a65cc)
+![image](https://github.com/user-attachments/assets/7538c0de-0c35-4837-a73e-20204cffb501)
+![image](https://github.com/user-attachments/assets/686c8a56-41a2-499e-9d3e-8c3456d7b283)
+![image](https://github.com/user-attachments/assets/e7f4a405-f313-4de3-b3b4-b94589a3dd2c)
 ![image](https://github.com/user-attachments/assets/04b9b2a7-ff25-4341-9935-ff122a87b869)
 ![image](https://github.com/user-attachments/assets/1232283d-00bd-4e8b-945c-3a97bc626975)
 ![image](https://github.com/user-attachments/assets/cec7c24a-d6e7-48be-81f2-76f4e9232682)
