@@ -1,5 +1,7 @@
 # ADDC-2023-SEARCH-AND-RESCUE-MEDICAL-HELP
-This repository is owned by aeroKLE SAE aerodesign team. 
+This repository is owned by AeroKLE SAE Aerodesign Team.  
+Software development for AI-powered drones.  
+Integrates computer vision into the control loop for powering autonomous flight.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5ce9d7da-a251-4541-acf2-6c99dc6a65cc" width="600" height="400"><br>
   <img src="https://github.com/user-attachments/assets/7538c0de-0c35-4837-a73e-20204cffb501" width="600" height="400"><br>
