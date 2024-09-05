@@ -9,6 +9,7 @@ Integrates computer vision into the control loop for powering autonomous flight.
   <img src="https://github.com/user-attachments/assets/686c8a56-41a2-499e-9d3e-8c3456d7b283" width="300" height="300"><br>
   <img src="https://github.com/user-attachments/assets/e7f4a405-f313-4de3-b3b4-b94589a3dd2c" width="300" height="300"><br>
   <img src="https://github.com/user-attachments/assets/a7f3fa7d-5f11-4718-93ba-455d4ed65533" width="300" height="300"><br>
+<h2 align="center">Aerial Segmentation </h2>    
   <img src="https://github.com/user-attachments/assets/04b9b2a7-ff25-4341-9935-ff122a87b869" width="300" height="300"><br>
   <img src="https://github.com/user-attachments/assets/1232283d-00bd-4e8b-945c-3a97bc626975" width="300" height="300"><br>
   <img src="https://github.com/user-attachments/assets/cec7c24a-d6e7-48be-81f2-76f4e9232682" width="300" height="300"><br>
