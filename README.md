@@ -4,7 +4,7 @@ Software development for AI-powered drones.
 Integrates computer vision into the control loop for powering autonomous flight.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5ce9d7da-a251-4541-acf2-6c99dc6a65cc" width="600" height="400"><br>
-    ## Gazebo Software in the Loop Simulation Using ROS and YOLOv7
+<h2 align="center">Gazebo Software in the Loop Simulation Using ROS and YOLOv7</h2>
   <img src="https://github.com/user-attachments/assets/7538c0de-0c35-4837-a73e-20204cffb501" width="600" height="400"><br>
   <img src="https://github.com/user-attachments/assets/686c8a56-41a2-499e-9d3e-8c3456d7b283" width="300" height="300"><br>
   <img src="https://github.com/user-attachments/assets/e7f4a405-f313-4de3-b3b4-b94589a3dd2c" width="300" height="300"><br>
