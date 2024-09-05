@@ -15,6 +15,7 @@ Integrates computer vision into the control loop for powering autonomous flight.
   <img src="https://github.com/user-attachments/assets/1232283d-00bd-4e8b-945c-3a97bc626975" width="300" height="300"><br>
   <img src="https://github.com/user-attachments/assets/cec7c24a-d6e7-48be-81f2-76f4e9232682" width="300" height="300"><br>
   <img src="https://github.com/user-attachments/assets/729e28c8-ff47-483b-a270-19301244f545" width="300" height="300"><br>
+    <h2 align="center">Real Hardware and Software in the Loop </h2>   
   <img src="https://github.com/user-attachments/assets/df57ecb9-32ef-4485-b9f7-499bde137ab0" width="300" height="300"><br>
   <img src="https://github.com/user-attachments/assets/d5b020a5-284d-45d5-b139-396f9f384edf" width="300" height="300"><br>
   <img src="https://github.com/user-attachments/assets/40b9e627-2ebd-4574-9f26-4125c5a6f8b4" width="300" height="300"><br>
