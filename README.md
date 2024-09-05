@@ -2,6 +2,7 @@
 This repository is owned by AeroKLE SAE Aerodesign Team.  
 Software development for AI-powered drones.  
 Integrates computer vision into the control loop for powering autonomous flight.
+Autonomous Detection of desired target and navigation towards it using unique pixel to GPS conversion (SCRIPT IS TOP SECRET)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5ce9d7da-a251-4541-acf2-6c99dc6a65cc" width="600" height="400"><br>
 <h2 align="center">Gazebo Software in the Loop Simulation Using ROS and YOLOv7</h2>
